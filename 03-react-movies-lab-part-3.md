@@ -1,7 +1,7 @@
 <img src="https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80">
 
 # React Movies Lab - Part 3
-
+https://codesandbox.io/s/react-movies-lab-part123-bwrsll
 ## Intro
 
 For this lab, you will continue working in your existing `react-movies` project on CodeSandbox.
